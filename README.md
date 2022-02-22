@@ -6,7 +6,7 @@
 - 👨‍💻 Sou um aspirante a front-end
 - 💻 Estou cursando faculdade de Engenharia de Software
 - 📫 Contate-me no email: raphaelfernandes1607@gmail.com
-- 😄 E foi um prazer ter um pouco de sua atenção!
+- 😄 E está sendo um prazer ter um pouco de sua atenção!
 <div>
 <img align="right" alt="Rafa-pic" height="150" style="border-radius:50px;" 
   src="https://cdn.discordapp.com/attachments/763872818235703330/945530870951976960/Webp.net-gifmaker.gif"
