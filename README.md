@@ -1,11 +1,11 @@
 <h1>Opa, Tudo bom?🤗</h1>
 
 
-- 🖥 Prazer, meu nome é <strong>Raphael Fernandes</strong>
-- 🖱 Tenho 17 anos de idade
-- 👨‍💻 Sou um aspirante a front-end
-- 💻 Estou cursando faculdade de Engenharia de Software
-- 📫 Contate-me no email: raphaelfernandes1607@gmail.com
+- 🖥 Prazer, meu nome é <strong>Raphael Fernandes</strong>.
+- 🖱 Tenho 17 anos de idade.
+- 👨‍💻 Sou um aspirante a front-end.
+- 💻 Estou cursando faculdade de Engenharia de Software.
+- 📫 Contate-me no email: raphaelfernandes1607@gmail.com.
 - 😄 E está sendo um prazer ter um pouco de sua atenção!
 <div>
 <img align="right" alt="Rafa-pic" height="150" style="border-radius:50px;" 
