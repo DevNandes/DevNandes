@@ -1,12 +1,18 @@
 <h1>Opa, Tudo bom?🤗</h1>
-
-
-- 🖥 Prazer, meu nome é <strong>Raphael Fernandes</strong>.
-- 🖱 Tenho 17 anos de idade.
-- 👨‍💻 Sou um aspirante a front-end.
-- 💻 Estou cursando faculdade de Engenharia de Software.
-- 📫 Contate-me no email: raphaelfernandes1607@gmail.com.
-- 😄 E está sendo um prazer ter um pouco de sua atenção!
+```javascript
+import Developer from 'Raphael';
+age = '17years';
+contact = 'raphaelfernandes1607@gmail.com.';
+studying = 'Software Engineering';
+class AboutMe extends Developer {
+  expertise = 'Future Front-End Web Development';
+}
+class Skills extends Developer {
+  languages  = ['Javascript', 'HTML', 'CSS'];
+  tools = ['VSC'];
+  versioning_system = ['Git'];
+}
+```
 <div>
 <img align="right" alt="Rafa-pic" height="150" style="border-radius:50px;" 
   src="https://cdn.discordapp.com/attachments/763872818235703330/945530870951976960/Webp.net-gifmaker.gif"
