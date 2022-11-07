@@ -14,10 +14,6 @@ class Skills extends Developer {
   versioning_system = ['Git'];
 }
 ```
-<div>
-<img align="right" alt="Rafa-pic" height="150" style="border-radius:50px;" 
-  src="https://cdn.discordapp.com/attachments/763872818235703330/945530870951976960/Webp.net-gifmaker.gif"
-</div>
      
 ##
 
