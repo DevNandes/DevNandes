@@ -3,16 +3,17 @@
 ```javascript
 import Developer from 'Raphael';
 age = '20 years';
-contact = 'raphaelfernandes1607@gmail.com.';
+contact = 'raphaelfernandes1607@gmail.com';
 studying = ['Software Engineering', 'Data Science'];
 class AboutMe extends Developer {
   expertise = 'Full-Stack Developer';
 }
 class Skills extends Developer {
-  languages  = ['Javascript', 'CSS'];
+  languages  = ['Javascript', 'Python', 'Java'];
   libraries = ['ReactJs', 'Flask', 'ExpressJs'];
-  tools = ['VSC'];
-  versioning_system = ['Git', 'GitHub'];
+  frameworks = ['SpringBoot'];
+  tools = ['VSC', 'IntelliJ'];
+  versioning_system = ['Git', 'GitHub', 'Bitbucket', 'Azure Devops', 'Gitlab'];
 }
 ```
      
