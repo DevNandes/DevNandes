@@ -2,7 +2,7 @@
 
 ```javascript
 import Developer from 'Raphael';
-age = '20 years';
+age = '22 years';
 contact = 'raphaelfernandes1607@gmail.com';
 studying = ['Software Engineering', 'Data Science'];
 class AboutMe extends Developer {
